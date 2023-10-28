@@ -1,0 +1,14 @@
+form{
+    text-align: center;
+    font-family: 'Barriecito', cursive;
+}
+h1{
+   text-align: center;
+   font-family: 'Barriecito', cursive;
+}
+body {
+   background-image: url('https://wallpaperaccess.com/full/1445467.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+ }
